@@ -26,5 +26,6 @@
   -st_multiselect.py
   -st_checkbox.py
   -cloud_dev.py
+  -st_math_latex.py
   ```
   
