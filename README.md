@@ -20,7 +20,6 @@
 4. Widgets
 5. Layout
 6. Caching
-
   ```
   <li>4-Building simple streamlit webapps </li>
       <ul>
