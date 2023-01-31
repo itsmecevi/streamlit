@@ -31,5 +31,6 @@
   -st_progress.py
   -st_form.py
   -st_session.py
+  -st_youtube_tumbnail.py
   ```
   
