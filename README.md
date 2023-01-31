@@ -1,6 +1,6 @@
 # streamlit-sohot
 
-1. What is streamlit=> https://streamlit.io/
+1. 
 2. Preparation and prerequisite:
 
 -CMD 
@@ -14,9 +14,7 @@
 
 
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item
+  <li>1. What is streamlit=> https://streamlit.io/ </li>
     <ul>
       <li>Indented item</li>
       <li>Indented item</li>
