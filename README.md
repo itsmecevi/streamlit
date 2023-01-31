@@ -11,7 +11,11 @@
       <li>Version Control (Git & Github)</li>
     </ul>
   </li>
-  <li>3-Hands-On Streamlit </li>
+  <li>3-Main concepts: </li>
+   ```
+  -hello_world.py
+  -st_button.py
+  ```
   <li>4-Building simple streamlit webapps </li>
       <ul>
       <li>Simple Example:</li>
