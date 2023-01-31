@@ -1,8 +1,8 @@
 # streamlit-sohot
 
 <ul>
-  <li>1. What is streamlit=> https://streamlit.io/ </li>
-  <li>1. Preparation and prerequisite: </li>
+  <li>1-What is streamlit=> https://streamlit.io/ </li>
+  <li>2-Preparation and prerequisite: </li>
     <ul>
       <li>CMD (Command Prompt)</li>
       <li>Python distribution</li>
