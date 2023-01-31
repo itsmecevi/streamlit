@@ -48,7 +48,11 @@
   Extras:
   
   [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+  
   [CMD Tutorials-2](https://www.youtube.com/watch?v=qnXe1gecux8)
+  
   [CMD Tutorials-3](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
+  
   [What is Python? Why Python is So Popular?](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
+  
   [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
