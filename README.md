@@ -28,5 +28,6 @@
   -cloud_dev.py
   -st_math_latex.py
   -st_layout.py
+  -st_progress.py
   ```
   
