@@ -11,11 +11,11 @@
       <li>Version Control (Git & Github)</li>
     </ul>
   </li>
-  <li>3-Main concepts: </li>
+  <li>3-Main concepts: st_main_concept.py </li>
   
    ```
-  -hello_world.py
-  -st_button.py
+  1. 
+  2. 
   ```
   <li>4-Building simple streamlit webapps </li>
       <ul>
