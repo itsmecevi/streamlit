@@ -11,9 +11,11 @@
       <li>Version Control (Git & Github)</li>
     </ul>
   </li>
-  <li>3-Building simple streamlit webapps: </li>
+  <li>3-Building simple streamlit webapps </li>
       <ul>
-      <li>Simple Example</li>
+      <li>Simple Example:</li>
+      -hello_world.py
+      -hello_world.py
       <li>Simple Exercise</li>
       </ul>
 </ul>
