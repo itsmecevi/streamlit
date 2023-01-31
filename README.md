@@ -6,6 +6,8 @@
   <li>2-Preparation and prerequisite: </li>
     <ul>
       <li>CMD (Command Prompt)</li>
+           <li>CMD (Command Prompt)</li>
+           <li>CMD (Command Prompt)</li>
       <li>Python distribution</li>
       <li>Virtual environment (or Anaconda Distribution)</li>
       <li>Version Control (Git & Github)</li>
