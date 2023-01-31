@@ -21,5 +21,6 @@
   -st_button.py
   -st_write.py
   -st_slider.py
+  -line_chart.py
   ```
   
