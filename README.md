@@ -11,5 +11,5 @@
       <li>Or Anaconda Distribution</li>
     </ul>
   </li>
-  <li>Fourth item</li>
+  <li>Streamlit Simple Example</li>
 </ul>
