@@ -23,5 +23,6 @@
   -st_slider.py
   -line_chart.py
   -st_selectbox.py
+  -st_multiselect.py
   ```
   
