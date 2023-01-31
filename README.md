@@ -5,9 +5,7 @@
   <li>1-What is streamlit=> https://streamlit.io/ </li>
   <li>2-Preparation and prerequisite: </li>
     <ul>
-      <li>CMD (Command Prompt)</li>
-        [Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
-
+      <li>CMD (Command Prompt)</li>[Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
       <li>Python distribution</li>
       <li>Virtual environment (or Anaconda Distribution)</li>
       <li>Version Control (Git & Github)</li>
