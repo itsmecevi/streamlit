@@ -7,7 +7,7 @@
     <ul>
       <li>CMD (Command Prompt)</li>
       <li>Python</li>
-      <li>Virtual environment (or Anaconda Distribution)</li>
+      <li>Virtual environment (simplest: Anaconda Distribution)</li>
       <li>Version Control (Git & Github)</li>
     </ul>
   </li>
@@ -56,3 +56,7 @@
   [What is Python? Why Python is So Popular?](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
   
   [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+  
+  [The Complete Guide to Python Virtual Environments!](https://www.youtube.com/watch?v=KxvKCSwlUv8)
+  
+  [Virtual Environment-Bahasa Indonesia](https://www.youtube.com/watch?v=twu1t_yo0PM)
