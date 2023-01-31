@@ -22,6 +22,3 @@
   -st_button.py
   ```
   
-      <li>Simple Exercise</li>
-      </ul>
-</ul>
