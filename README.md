@@ -11,5 +11,7 @@
       <li>Or Anaconda Distribution</li>
     </ul>
   </li>
-  <li>3-Simple Example</li>
+  <li>3-Building Simple Streamlit Web Apps </li>
+      <li>Simple Example</li>
+      <li>Simple Exercise</li>
 </ul>
