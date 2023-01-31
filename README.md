@@ -25,5 +25,6 @@
   -st_selectbox.py
   -st_multiselect.py
   -st_checkbox.py
+  -cloud_dev.py
   ```
   
