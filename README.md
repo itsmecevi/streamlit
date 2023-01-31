@@ -6,6 +6,8 @@
   <li>2-Preparation and prerequisite: </li>
     <ul>
       <li>CMD (Command Prompt)</li>
+        [Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+
       <li>Python distribution</li>
       <li>Virtual environment (or Anaconda Distribution)</li>
       <li>Version Control (Git & Github)</li>
@@ -44,6 +46,5 @@
   -st_youtube_tumbnail.py
   ```
   
-  [Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
   [Tutorials-2](https://www.youtube.com/watch?v=qnXe1gecux8)
   [Tutorials-3](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
