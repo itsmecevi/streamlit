@@ -5,7 +5,7 @@
   <li>1-What is streamlit=> https://streamlit.io/ </li>
   <li>2-Preparation and prerequisite: </li>
     <ul>
-      <li>CMD (Command Prompt)</li> (Tutorials-1, Tutorials-2, Tutorials-3)
+      <li>CMD (Command Prompt)=> (Tutorials-1, Tutorials-2, Tutorials-3)</li> 
       <li>Python distribution</li>
       <li>Virtual environment (or Anaconda Distribution)</li>
       <li>Version Control (Git & Github)</li>
