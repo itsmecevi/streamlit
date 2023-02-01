@@ -14,21 +14,34 @@
   <li>3-Main concept: st_main_concept.py </li>
   
 ```
-1. Magic, 
-2. Write a dataframe, 
-3. Charts and maps, 
-4. Widgets, 
-5. Layout, 
+1. Magic
+2. Write a dataframe
+3. Charts and maps
+4. Widgets
+5. Layout
 6. Caching
 ```
 
-<li>4-API reference: </li>
+<li>4-API reference: https://docs.streamlit.io/library/api-reference </li>
 
 ```
 1. Write and magic
 2. Text element
 3. Data display element
 4. Chart element
+5. Input widget
+6. Media element
+7. Layout and container
+8. Status element
+9. Control flow
+10. Utilities
+11. Mutate chart
+12. State management
+13. Performance
+14. Personalization
+15. Advanced feature
+16. Component
+17. Cheat sheet
 ```
 
 <li>4-Building simple streamlit component </li>
