@@ -11,7 +11,7 @@
       <li>Version Control (Git & Github)</li>
     </ul>
   </li>
-  <li>3-Main concepts:  ```st_main_concept.py ``` </li>
+  <li>3-Main concepts: st_main_concept.py </li>
   
 1. Magic, 
 2. Write a dataframe, 
