@@ -20,9 +20,8 @@
 5. Layout, 
 6. Caching
 
-<li>4-My first app: st_my_first_app.py </li>
-  
-  <li>5-Building simple streamlit webapps </li>
+
+  <li>4-Building simple streamlit component </li>
       <ul>
       <li>Simple Example:</li>
      
@@ -44,6 +43,8 @@
   -st_session.py
   -st_youtube_tumbnail.py
   ```
+  
+  <li>5-My first app: st_my_first_app.py </li>
   
   
   Extras:
