@@ -13,10 +13,15 @@
   </li>
   <li>3-Main concepts: st_main_concept.py </li>
 -Magic
+
 -Write a dataframe
+
 -Charts and maps
+
 -Widgets
+
 -Layout
+
 -Caching
   
   <li>4-Building simple streamlit webapps </li>
