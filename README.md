@@ -53,6 +53,12 @@
 
   
   <li>Extras:</li>
+  <ul>
+      <li>CMD (Command Prompt)</li>
+      <li>Python</li>
+      <li>Virtual environment (simplest: Anaconda Distribution)</li>
+      <li>Version Control (Git & Github)</li>
+    </ul>
 
   [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
   
