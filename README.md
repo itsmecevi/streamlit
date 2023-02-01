@@ -42,7 +42,7 @@
   -st_math_latex.py
   -st_layout.py
   -st_progress.py
-  -st_form.py
+  -st_form.py-X=st_exercise_12
   -st_session.py
   -st_youtube_tumbnail.py
   ```
