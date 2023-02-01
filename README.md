@@ -62,3 +62,5 @@
   [Virtual Environment-Bahasa Indonesia](https://www.youtube.com/watch?v=twu1t_yo0PM)
   
   [The Journey to Open Data Science with Anaconda](https://www.youtube.com/watch?v=HhVbj4hLsfc)
+  
+  [Why Anaconda?](https://www.youtube.com/watch?v=ErIaJFNECCs&t=13s)
