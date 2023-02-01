@@ -49,11 +49,11 @@
   
   <li>5-My first app: st_my_first_app.py </li>
   
-   <li>5-Multipage app: see the folder</li>
+  <li>5-Multipage app: see the folder</li>
 
   
-  Extras:
-  
+  <li>Extras:</li>
+
   [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
   
   [CMD Tutorials-2](https://www.youtube.com/watch?v=qnXe1gecux8)
