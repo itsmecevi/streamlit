@@ -13,13 +13,14 @@
   </li>
   <li>3-Main concept: st_main_concept.py </li>
   
+```
 1. Magic, 
 2. Write a dataframe, 
 3. Charts and maps, 
 4. Widgets, 
 5. Layout, 
 6. Caching
-
+```
 
 <li>4-API reference </li>
 
