@@ -12,11 +12,10 @@
     </ul>
   </li>
   <li>3-Main concepts: st_main_concept.py </li>
--Magic
-
--Write a dataframe
-
--Charts and maps
+  
+i. Magic
+ii. Write a dataframe
+iii. Charts and maps
 
 -Widgets
 
