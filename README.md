@@ -75,7 +75,7 @@
   
   <li>7-Multipage app: see the folder</li>
 
-  <li>8-Use Case:</li>
+  <li>8-Use Case:</li> books from apres and packt
  
   <li>Extras:</li>
   
