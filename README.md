@@ -60,3 +60,5 @@
   [The Complete Guide to Python Virtual Environments!](https://www.youtube.com/watch?v=KxvKCSwlUv8)
   
   [Virtual Environment-Bahasa Indonesia](https://www.youtube.com/watch?v=twu1t_yo0PM)
+  
+  [The Journey to Open Data Science with Anaconda](https://www.youtube.com/watch?v=HhVbj4hLsfc)
