@@ -22,8 +22,13 @@
 6. Caching
 ```
 
-<li>4-API reference </li>
-
+<li>4-API reference: </li>
+```
+1. Write and magic
+2. Text element
+3. Data display element
+4. Chart element
+```
 
 <li>4-Building simple streamlit component </li>
       <ul>
