@@ -49,7 +49,7 @@
   
   <li>5-My first app: st_my_first_app.py </li>
   
-  <li>5-Multipage app: see the folder</li>
+  <li>6-Multipage app: see the folder</li>
 
   
   <li>Extras:</li>
