@@ -22,7 +22,7 @@
 6. Caching
 ```
 
-<li>4-API reference: https://docs.streamlit.io/library/api-reference </li>
+<li>4-API reference: https://docs.streamlit.io/library/api-reference</li>
 
 ```
 1. Write and magic
@@ -44,7 +44,7 @@
 17. Cheat sheet
 ```
 
-<li>4-Building simple streamlit component </li>
+<li>5-Building simple streamlit component </li>
       <ul>
       <li>Simple Example:</li>
      
@@ -66,15 +66,17 @@
   -st_session.py
   -st_youtube_tumbnail.py
   ```
+  
   <li>Simple Exercise: see the folder</li>
   </ul>
   
   
-  <li>5-My first app: st_my_first_app.py </li>
+  <li>6-My first app: st_my_first_app.py </li>
   
-  <li>6-Multipage app: see the folder</li>
+  <li>7-Multipage app: see the folder</li>
 
-  
+  <li>8-Use Case:</li>
+ 
   <li>Extras:</li>
 
   [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
