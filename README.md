@@ -64,3 +64,5 @@
   [The Journey to Open Data Science with Anaconda](https://www.youtube.com/watch?v=HhVbj4hLsfc)
   
   [Why Anaconda?](https://www.youtube.com/watch?v=ErIaJFNECCs&t=13s)
+  
+  [APA ITU GIT & GITHUB?](https://www.youtube.com/watch?v=lTMZxWMjXQU)
