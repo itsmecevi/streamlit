@@ -44,7 +44,7 @@
   -st_youtube_tumbnail.py
   ```
   <li>Simple Exercise: See the image in Simple Exercise folder</li>
-  
+  </ul>
   
   
   <li>5-My first app: st_my_first_app.py </li>
