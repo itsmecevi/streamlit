@@ -65,4 +65,4 @@
   
   [Why Anaconda?](https://www.youtube.com/watch?v=ErIaJFNECCs&t=13s)
   
-  [APA ITU GIT & GITHUB?](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+  [GIT & GITHUB?-Bahasa Indonesia](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
