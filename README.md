@@ -43,13 +43,14 @@
   -st_session.py
   -st_youtube_tumbnail.py
   ```
-  <li>Simple Exercise: See the image in Simple Exercise folder</li>
+  <li>Simple Exercise: see the folder</li>
   </ul>
   
   
   <li>5-My first app: st_my_first_app.py </li>
   
-  
+   <li>5-Multipage app: see the folder</li>
+
   
   Extras:
   
