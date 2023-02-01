@@ -21,7 +21,10 @@
 6. Caching
 
 
-  <li>4-Building simple streamlit component </li>
+<li>4-API reference </li>
+
+
+<li>4-Building simple streamlit component </li>
       <ul>
       <li>Simple Example:</li>
      
