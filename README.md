@@ -47,6 +47,8 @@
   <li>5-My first app: st_my_first_app.py </li>
   
   
+  
+  
   Extras:
   
   [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
