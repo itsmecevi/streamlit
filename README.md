@@ -16,12 +16,9 @@
 i. Magic
 ii. Write a dataframe
 iii. Charts and maps
-
--Widgets
-
--Layout
-
--Caching
+iv. Widgets
+v. Layout
+v1. Caching
   
   <li>4-Building simple streamlit webapps </li>
       <ul>
