@@ -73,9 +73,9 @@
   
   <li>6-My first app: st_my_first_app.py </li>
   
-  <li>7-Multipage app: see the folder</li>
+  <li>7-Multipage app-X: see the folder</li>
 
-  <li>8-Use Case:</li> books from apres and packt
+  <li>8-Use Case:-X</li> books from apres and packt
  
   <li>Extras:</li>
   
