@@ -25,7 +25,7 @@
 <li>4-API reference: https://docs.streamlit.io/library/api-reference</li>
 
 ```
-1. Write and magic
+1. Write and magic: st_write_and_magic.py
 2. Text element
 3. Data display element
 4. Chart element
