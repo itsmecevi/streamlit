@@ -28,7 +28,7 @@
 1. Write and magic: st_write_and_magic.py
 2. Text element: st_text_element.py
 3. Data display element: st_data_display_element.py
-4. Chart element
+4. Chart element: st_chart_element.py
 5. Input widget
 6. Media element
 7. Layout and container
