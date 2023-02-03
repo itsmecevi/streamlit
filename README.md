@@ -29,8 +29,8 @@
 2. Text element: st_text_element.py
 3. Data display element: st_data_display_element.py
 4. Chart element: st_chart_element.py
-5. Input widget
-6. Media element
+5. Input widget: st_input_widget.py
+6. Media element:
 7. Layout and container
 8. Status element
 9. Control flow
