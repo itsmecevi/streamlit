@@ -32,7 +32,7 @@
 5. Input widget: st_input_widget.py
 6. Media element: st_media_element.py
 7. Layout and container: st_layout_and_container.py
-8. Status element
+8. Status element: -XXXX
 9. Control flow
 10. Utilities
 11. Mutate chart
