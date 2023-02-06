@@ -35,7 +35,7 @@
 8. Status element: st_status_element.py
 9. Control flow: st_control_flow.py
 10. Utilities: st_utilities.py
-11. Mutate chart
+11. Mutate chart: st_mutate_chart.py
 12. State management
 13. Performance
 14. Personalization
@@ -85,20 +85,13 @@
  * [CMD Tutorials-1](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
  * [CMD Tutorials-2](https://www.youtube.com/watch?v=qnXe1gecux8)
  * [CMD Tutorials-3](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
-  
-  [What is Python? Why Python is So Popular?](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
-  
-  [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
-  
-  [The Complete Guide to Python Virtual Environments!](https://www.youtube.com/watch?v=KxvKCSwlUv8)
-  
-  [Virtual Environment-Bahasa Indonesia](https://www.youtube.com/watch?v=twu1t_yo0PM)
-  
-  [The Journey to Open Data Science with Anaconda](https://www.youtube.com/watch?v=HhVbj4hLsfc)
-  
-  [Why Anaconda?](https://www.youtube.com/watch?v=ErIaJFNECCs&t=13s)
-  
-  [GIT & GITHUB?-Bahasa Indonesia](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+ * [What is Python? Why Python is So Popular?](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
+ * [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+ * [The Complete Guide to Python Virtual Environments!](https://www.youtube.com/watch?v=KxvKCSwlUv8)
+ * [Virtual Environment-Bahasa Indonesia](https://www.youtube.com/watch?v=twu1t_yo0PM)
+ * [The Journey to Open Data Science with Anaconda](https://www.youtube.com/watch?v=HhVbj4hLsfc)
+ * [Why Anaconda?](https://www.youtube.com/watch?v=ErIaJFNECCs&t=13s)
+ * [GIT & GITHUB?-Bahasa Indonesia](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
   
    
 
