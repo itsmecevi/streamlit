@@ -34,7 +34,7 @@
 7. Layout and container: st_layout_and_container.py
 8. Status element: st_status_element.py
 9. Control flow: st_control_flow.py
-10. Utilities
+10. Utilities: st_utilities.py
 11. Mutate chart
 12. State management
 13. Performance
