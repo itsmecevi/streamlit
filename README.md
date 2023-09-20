@@ -1,7 +1,6 @@
 # streamlit
 
 <ul>
-  <li>0-Web Programming 101=> https://itsmecevi.github.io/Intro-WebDev/ </li>
   <li>1-What is streamlit=> https://streamlit.io/ </li>
   <li>2-Preparation and prerequisite: </li>
     <ul>
@@ -13,14 +12,14 @@
   </li>
   <li>3-Main concept: st_main_concept.py </li>
   
-```
-1-Magic
-2-Write a dataframe
-3-Charts and maps
-4-Widgets
-5-Layout
-6-Caching
-```
+
+1-`Magic`
+2-`Write a dataframe`
+3-`Charts and maps`
+4-`Widgets`
+5-`Layout`
+6-`Caching`
+
 
 <li>4-API reference: https://docs.streamlit.io/library/api-reference</li>
 
