@@ -1,4 +1,4 @@
-# streamlit-sohot
+# streamlit
 
 <ul>
   <li>0-Web Programming 101=> https://itsmecevi.github.io/Intro-WebDev/ </li>
