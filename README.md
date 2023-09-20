@@ -6,11 +6,11 @@
     <ul>
       <li>CMD (Command Prompt)</li>
       <li>Python</li>
-      <li>Virtual environment (simplest: Anaconda Distribution)</li>
-      <li>Version Control (Git & Github)</li>
+      <li>Virtual environment (VS Code, Jupyter, Anaconda)</li>
+      <li>Version Control (Github)</li>
     </ul>
   </li>
-  <li>3-Main concept: st_main_concept.py </li>
+  <li>3-Main concept: __st_main_concept.py__ </li>
   
 
 1-`Magic`
