@@ -6,9 +6,7 @@
     * Python: https://www.python.org/downloads/
     * IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda
     * Version Control (Github)
-3. Main Concept: 1-`Magic`
-2-`Write a dataframe`
-3-`Charts and maps`
+3. Main Concept: `magic.py`, `dataframe.py`, `chart_maps.py`
 4-`Widgets`
 5-`Layout`
 6-`Caching`
