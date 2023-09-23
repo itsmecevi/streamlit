@@ -18,6 +18,7 @@
       * `status_element.py`
       * `control_flow.py`
       * `utilities.py`
+      * `mutate_chart.py`
 5. Simple Example:
 6. Use Case Apps:
 
@@ -25,7 +26,6 @@
         
 ```
 
-10. Utilities: st_utilities.py
 11. Mutate chart: st_mutate_chart.py
 12. State management
 13. Performance
