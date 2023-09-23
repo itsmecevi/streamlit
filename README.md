@@ -7,8 +7,9 @@
     * IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda
     * Version Control (Github)
 3. Main Concept: `magic.py`, `dataframe.py`, `chart_maps.py`, `widget.py`, `layout.py`
-4. Simple Example: 
-5. API reference: https://docs.streamlit.io/library/api-reference
+4. Simple Example:
+      * `hello_world.py`
+6. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
       * `text_element.py`
       * `data_display.py`
@@ -22,23 +23,8 @@
       * `mutate_chart.py`
       * `session_state.py`
       * `personalize.py`
-6. Simple Example:
-7. Use Case Apps:
-
-   
-        
-```
-15. Advanced feature
-16. Component
-17. Cheat sheet
-```
-
-
-
-<li>5-Building simple streamlit component </li>
-      <ul>
-      <li>Simple Example:</li>
-     
+7. Advanced Feature: https://docs.streamlit.io/library/advanced-features
+8. Use Case Apps:
   
   ```
   -hello_world.py
@@ -57,16 +43,6 @@
   -st_session.py
   -st_youtube_tumbnail.py
   ```
-  
-  <li>Simple Exercise: see the folder</li>
-  </ul>
-  
-  
-  <li>6-My first app: st_my_first_app.py </li>
-  
-  <li>7-Multipage app-X: see the folder</li>
-
-  <li>8-Use Case:-X</li> books from apres and packt
 
 
  by: itsmecevi.github.io
