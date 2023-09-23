@@ -12,14 +12,13 @@
       * `text_element.py`
       * `data_display.py`
       * `chart_element.py`
+      * `input_widget.py`
 5. Simple Example:
 6. Use Case Apps:
 
    
         
 ```
-
-5. Input widget: st_input_widget.py
 6. Media element: st_media_element.py
 7. Layout and container: st_layout_and_container.py
 8. Status element: st_status_element.py
