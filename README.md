@@ -19,15 +19,13 @@
       * `control_flow.py`
       * `utilities.py`
       * `mutate_chart.py`
+      * 'session_state.py`
 5. Simple Example:
 6. Use Case Apps:
 
    
         
 ```
-
-11. Mutate chart: st_mutate_chart.py
-12. State management
 13. Performance
 14. Personalization
 15. Advanced feature
