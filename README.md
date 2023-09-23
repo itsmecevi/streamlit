@@ -30,6 +30,7 @@
       * `mutate_chart.py`
       * `session_state.py`
       * `personalize.py`
+        
 7. Advanced Feature: https://docs.streamlit.io/library/advanced-features
 8. Use Case Apps:
 
