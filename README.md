@@ -11,16 +11,14 @@
       * `write_and_magic.py`
       * `text_element.py`
       * `data_display.py`
+      * `chart_element.py`
 5. Simple Example:
 6. Use Case Apps:
 
    
         
 ```
-1. Write and magic: st_write_and_magic.py
-2. Text element: st_text_element.py
-3. Data display element: st_data_display_element.py
-4. Chart element: st_chart_element.py
+
 5. Input widget: st_input_widget.py
 6. Media element: st_media_element.py
 7. Layout and container: st_layout_and_container.py
