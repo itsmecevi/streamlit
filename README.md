@@ -8,6 +8,10 @@
     * Version Control (Github)
 3. Main Concept: `magic.py`, `dataframe.py`, `chart_maps.py`, `widget.py`, `layout.py`
 4. API reference: https://docs.streamlit.io/library/api-reference
+      * `write_and_magic.py`
+      * `write_and_magic.py`
+  
+        
 ```
 1. Write and magic: st_write_and_magic.py
 2. Text element: st_text_element.py
