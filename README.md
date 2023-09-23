@@ -20,7 +20,7 @@
       * `control_flow.py`
       * `utilities.py`
       * `mutate_chart.py`
-      * 'session_state.py`
+      * `session_state.py`
       * 
 6. Simple Example:
 7. Use Case Apps:
