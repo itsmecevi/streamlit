@@ -16,14 +16,13 @@
       * `media_element.py`
       * `layout_and_container.py`
       * `status_element.py`
+      * `control_flow.py`
 5. Simple Example:
 6. Use Case Apps:
 
    
         
 ```
-
-8. Status element: st_status_element.py
 9. Control flow: st_control_flow.py
 10. Utilities: st_utilities.py
 11. Mutate chart: st_mutate_chart.py
