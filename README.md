@@ -1,5 +1,10 @@
 # streamlit
 
+1. What is Streamlit: https://streamlit.io/
+2. Preparation
+    * CMD (Command Prompt)
+    * CMD (Command Prompt)
+
 <ul>
   <li>1-What is streamlit: https://streamlit.io/ </li>
   <li>2-Preparation and prerequisite: </li>
