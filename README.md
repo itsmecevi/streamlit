@@ -17,13 +17,14 @@
       * `layout_and_container.py`
       * `status_element.py`
       * `control_flow.py`
+      * `utilities.py`
 5. Simple Example:
 6. Use Case Apps:
 
    
         
 ```
-9. Control flow: st_control_flow.py
+
 10. Utilities: st_utilities.py
 11. Mutate chart: st_mutate_chart.py
 12. State management
