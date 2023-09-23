@@ -10,7 +10,7 @@
       <li>Version Control (Github)</li>
     </ul>
   </li>
-  <li>3-Main concept: __st_main_concept.py__ </li>
+  <li>3-Main concept: st_main_concept.py </li>
   
 
 1-`Magic`
