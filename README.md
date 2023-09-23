@@ -7,7 +7,8 @@
     * IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda
     * Version Control (Github)
 3. Main Concept: `magic.py`, `dataframe.py`, `chart_maps.py`, `widget.py`, `layout.py`
-4. API reference: https://docs.streamlit.io/library/api-reference
+4. Simple Example: 
+5. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
       * `text_element.py`
       * `data_display.py`
@@ -19,9 +20,9 @@
       * `control_flow.py`
       * `utilities.py`
       * `mutate_chart.py`
-      * 'session_state.py`
-5. Simple Example:
-6. Use Case Apps:
+      * 'session_state.py-X`
+6. Simple Example:
+7. Use Case Apps:
 
    
         
