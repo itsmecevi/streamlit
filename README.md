@@ -6,7 +6,7 @@
     <ul>
       <li>CMD (Command Prompt)</li>
       <li>Python: https://www.python.org/downloads/</li>
-      <li>Virtual environment (VS Code, Jupyter, Anaconda)</li>
+      <li>IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda</li>
       <li>Version Control (Github)</li>
     </ul>
   </li>
