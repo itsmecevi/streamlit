@@ -34,27 +34,7 @@
 17. Cheat sheet
 ```
 
-<li>4-API reference: https://docs.streamlit.io/library/api-reference</li>
 
-```
-1. Write and magic: st_write_and_magic.py
-2. Text element: st_text_element.py
-3. Data display element: st_data_display_element.py
-4. Chart element: st_chart_element.py
-5. Input widget: st_input_widget.py
-6. Media element: st_media_element.py
-7. Layout and container: st_layout_and_container.py
-8. Status element: st_status_element.py
-9. Control flow: st_control_flow.py
-10. Utilities: st_utilities.py
-11. Mutate chart: st_mutate_chart.py
-12. State management
-13. Performance
-14. Personalization
-15. Advanced feature
-16. Component
-17. Cheat sheet
-```
 
 <li>5-Building simple streamlit component </li>
       <ul>
