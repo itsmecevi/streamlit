@@ -11,6 +11,11 @@
       * `hello_world.py`
       * `button.py`
       * `write.py`
+      * `slider.py`
+      * `line_chart.py`
+      * `select_box.py`
+      * `multiselect.py`
+      * `check_box.py`
 6. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
       * `text_element.py`
@@ -27,15 +32,6 @@
       * `personalize.py`
 7. Advanced Feature: https://docs.streamlit.io/library/advanced-features
 8. Use Case Apps:
-  
-  ```
-  -st_write.py
-  -st_slider.py
-  -line_chart.py
-  -st_selectbox.py
-  -st_multiselect.py
-  -st_checkbox.py
-  ```
 
 
  by: itsmecevi.github.io
