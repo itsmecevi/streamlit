@@ -3,7 +3,9 @@
 1. What is Streamlit: https://streamlit.io/
 2. Preparation
     * CMD (Command Prompt)
-    * CMD (Command Prompt)
+    * Python: https://www.python.org/downloads/
+    * IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda
+    * Version Control (Github)
 
 <ul>
   <li>1-What is streamlit: https://streamlit.io/ </li>
