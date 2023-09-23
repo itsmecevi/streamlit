@@ -21,15 +21,13 @@
       * `utilities.py`
       * `mutate_chart.py`
       * `session_state.py`
-      * 
+      * `personalize.py`
 6. Simple Example:
 7. Use Case Apps:
 
    
         
 ```
-13. Performance
-14. Personalization
 15. Advanced feature
 16. Component
 17. Cheat sheet
