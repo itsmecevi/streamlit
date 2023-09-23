@@ -10,7 +10,10 @@
 4. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
       * `write_and_magic.py`
-  
+5. Simple Example:
+6. Use Case Apps:
+
+   
         
 ```
 1. Write and magic: st_write_and_magic.py
