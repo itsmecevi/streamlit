@@ -9,7 +9,7 @@
 3. Main Concept: `magic.py`, `dataframe.py`, `chart_maps.py`, `widget.py`, `layout.py`
 4. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
-      * `write_and_magic.py`
+      * `text_element.py`
 5. Simple Example:
 6. Use Case Apps:
 
