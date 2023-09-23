@@ -5,7 +5,7 @@
   <li>2-Preparation and prerequisite: </li>
     <ul>
       <li>CMD (Command Prompt)</li>
-      <li>Python</li>
+      <li>Python: https://www.python.org/downloads/</li>
       <li>Virtual environment (VS Code, Jupyter, Anaconda)</li>
       <li>Version Control (Github)</li>
     </ul>
