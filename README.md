@@ -10,6 +10,7 @@
 4. API reference: https://docs.streamlit.io/library/api-reference
       * `write_and_magic.py`
       * `text_element.py`
+      * `data_display.py`
 5. Simple Example:
 6. Use Case Apps:
 
