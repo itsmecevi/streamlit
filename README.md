@@ -1,11 +1,18 @@
 # streamlit
 
 1. What is Streamlit: https://streamlit.io/
-2. Preparation
+2. Preparation:
     * CMD (Command Prompt)
     * Python: https://www.python.org/downloads/
     * IDE (Integrated Development Environment): VS Code, Jupyter, Anaconda
     * Version Control (Github)
+3. Main Concept: 1-`Magic`
+2-`Write a dataframe`
+3-`Charts and maps`
+4-`Widgets`
+5-`Layout`
+6-`Caching`
+5. XXXX
 
 <ul>
   <li>1-What is streamlit: https://streamlit.io/ </li>
